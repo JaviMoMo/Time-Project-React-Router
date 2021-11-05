@@ -1,10 +1,10 @@
 .countdown{
+    width: 300px;
     text-align: center;
-    font-size: x-large;
+    font-size: large;
     margin: 50px;
     padding: 20px;
-    border: 3px solid black;
-    border-radius: 100px;
-    color: red;
-    background-color:rgb(59, 59, 59);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(45deg, #313131 0, #000000 100%);
 }

@@ -14,7 +14,7 @@ const Countdown = () => {
             let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             let seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-            setTime(days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds - To the end of the world");
+            setTime(days + " d -> " + hours + " h -> " + minutes + " m -> " + seconds + " s : To the end of the world");
 
             if (distance < 0) {
                 clearInterval(x);

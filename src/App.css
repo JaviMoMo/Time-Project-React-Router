@@ -1,19 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .App{
-    background-image: url(https://besthqwallpapers.com/Uploads/16-3-2019/83681/thumb2-black-metallic-grid-macro-black-metal-background-metal-textures-grunge.jpg);
-    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(45deg, #1870ed 0, #f18f88 100%);
+    min-height: 100vh; 
     text-align: center;
-   ;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    margin: 30px;
+    padding: 20px;
+    border: white 2px solid;
+    color: rgb(43, 43, 43);
+    border-radius: 10px;
+}
+
+h1 b{
+    font-size: xxx-large;
+    text-transform: uppercase;
 }
 
 button{
-    font-size: 20px;
+    font-size: 13px;
     color: rgb(255, 255, 255);
     text-transform: uppercase;
     font-weight: bolder;
-    background-image: url(https://s1.1zoom.me/b5449/178/Texture_Red_563946_1600x1200.jpg);
+    background: linear-gradient(45deg, #1f1f1f 0, #5a5a5a 100%);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
     margin: 20px;
-    width: 150px;
-    height: 75px;
+    width: 100px;
+    height: 50px;
 }
 
 button:hover{

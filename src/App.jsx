@@ -10,6 +10,7 @@ function App() {
     <Router>
     <div className="App">
        <header>
+       <h1><b>Time control</b> - APP with React</h1>
       <Link to="/clock">
         <button>Clock</button>
       </Link>
