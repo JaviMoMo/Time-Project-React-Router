@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Time-Project-React-Router/static/css/main.382162f5.chunk.css",
+    "main.js": "/Time-Project-React-Router/static/js/main.c94aa219.chunk.js",
+    "main.js.map": "/Time-Project-React-Router/static/js/main.c94aa219.chunk.js.map",
+    "runtime-main.js": "/Time-Project-React-Router/static/js/runtime-main.6f19f639.js",
+    "runtime-main.js.map": "/Time-Project-React-Router/static/js/runtime-main.6f19f639.js.map",
+    "static/js/2.cd394dd7.chunk.js": "/Time-Project-React-Router/static/js/2.cd394dd7.chunk.js",
+    "static/js/2.cd394dd7.chunk.js.map": "/Time-Project-React-Router/static/js/2.cd394dd7.chunk.js.map",
+    "static/js/3.0c508912.chunk.js": "/Time-Project-React-Router/static/js/3.0c508912.chunk.js",
+    "static/js/3.0c508912.chunk.js.map": "/Time-Project-React-Router/static/js/3.0c508912.chunk.js.map",
+    "index.html": "/Time-Project-React-Router/index.html",
+    "static/css/main.382162f5.chunk.css.map": "/Time-Project-React-Router/static/css/main.382162f5.chunk.css.map",
+    "static/js/2.cd394dd7.chunk.js.LICENSE.txt": "/Time-Project-React-Router/static/js/2.cd394dd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f19f639.js",
+    "static/js/2.cd394dd7.chunk.js",
+    "static/css/main.382162f5.chunk.css",
+    "static/js/main.c94aa219.chunk.js"
+  ]
+}
