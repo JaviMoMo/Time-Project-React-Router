@@ -2,7 +2,8 @@ import './App.css';
 import Countdown from './components/Countdown';
 import DigitalClock from './components/DigitalClock';
 import Stopwatch from './components/Stopwatch';
-import NotFound from "./components/NotFound"
+import NotFound from "./components/NotFound";
+import Home from './components/Home';
 import { Route, Link, Switch, BrowserRouter as Router } from "react-router-dom";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
     </header>
       <main>
         <Switch>
+        <Route exact path="/" component={Home}/>
           <Route path="/clock" component={DigitalClock} />
           <Route path="/countdown" component={Countdown} />
           <Route path="/crono" component={Stopwatch} />
